@@ -1,0 +1,28 @@
+# Entregas
+- [x] Almoços manuais, retroativos e visitantes com foto privada em cada registro.
+- [x] Tablet com Sou visita e foto; manter limite facial diário à meia-noite de Brasília.
+- [x] Incluir visitantes nos relatórios e testar fluxos autenticados e regras.
+- [x] Criar tipos de documentos, atribuições e controle individual privado.
+- [x] Criar tabelas, validação em massa, renovação e histórico de documentos.
+- [x] Testar regras e fluxo autenticado de gestão de documentos.
+- [x] Atualizar adicionais, admissão obrigatória e cores do status de dependentes.
+- [x] Lateral branca, página de acesso e menu Minha conta/Segurança/Sair.
+- [x] Página inicial de notícias e cadastro de notícias com imagem.
+- [x] Testar regras e fluxos atualizados.
+- [x] Corrigir título Gestão Organizacional e adicionar Gestão de Pessoas.
+- [x] Colaboradores com etapas, validação, documentos privados e persistência.
+- [x] Dependentes com documentos, status e tabela de consulta.
+- [x] Validar regras e fluxo autenticado completo.
+- [x] Empresas, departamentos e cargos com cadastro, pesquisa, detalhes e exclusão.
+- [x] Organograma com movimentação e vínculo de superior direto.
+- [x] Persistência privada, acesso e anexos pelo Lovable Cloud.
+- [x] Exportação de informações dos cargos em PDF (substitui botão Gemini).
+- [x] Validar regras e fluxos no navegador.
+- [x] Remover filtro global e separar filtros por informação nas tabelas; atualizar nome do app.
+- [x] Tornar anexos opcionais, ampliar textos longos e exibir botão de anexar.
+- [x] Exportar todas as informações do cargo em PDF e baixar anexos, sem botão Gemini.
+- [x] Permitir sem superior e ligações visuais independentes no organograma.
+- [x] Validar regras atualizadas e fluxos completos.
+- [x] Escurecer quadro, remover setas automáticas, ampliar conexões nos quatro lados e permitir exclusão.
+- [x] Aproximar marca e subtítulo; incluir Layouts com personalização dos PDFs e CSVs existentes.
+- [x] Validar conexões persistentes, exclusão sem mudar superior e exportações personalizadas.
